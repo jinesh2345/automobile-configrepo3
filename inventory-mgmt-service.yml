@@ -9,4 +9,4 @@ spring:
     show-sql: true
 stock:
   transportType: air
-  slaDays: 60
+  slaDays: 70
